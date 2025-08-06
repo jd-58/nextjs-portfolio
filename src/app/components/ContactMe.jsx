@@ -1,4 +1,4 @@
-// About me section
+// Contact me section
 
 export default function ContactMe() {
   return (
